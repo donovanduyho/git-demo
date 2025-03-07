@@ -1,1 +1,1 @@
-This is another example of a commit!
+This is a commit to the new branch!
